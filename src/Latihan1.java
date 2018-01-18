@@ -15,6 +15,7 @@ public class Latihan1 {
         
         int nombor1;
         int nombor2;
+        int nombor3;
         
     System.out.print("Masukkan nombor1 =");
     nombor1 = input.nextInt();
